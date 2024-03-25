@@ -1,0 +1,30 @@
+* {
+  padding: 5px;
+  margin: 10px;
+  background-repeat: no-repeat;
+  background-image: url(./KakaoTalk_20240316_231544835.jpg);
+  background-attachment: fixed;
+  background-size: 100%;
+  overflow: calc(100vh);
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+li {
+  list-style: none;
+  justify-content: space-between;
+}
+
+footer {
+  background-color: chocolate;
+}
